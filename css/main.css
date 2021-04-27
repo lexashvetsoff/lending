@@ -1,0 +1,84 @@
+header {
+  background: url(../image/bg_robo_2.jpg);
+}
+
+.logo img {
+  width: 80px;
+  height: 100px;
+}
+
+.header-title {
+  font-size: 60px;
+  font-weight: 600;
+}
+
+.headet-text {
+  margin-top: 50px;
+  font-size: 24px;
+  font-style: italic;
+}
+
+.form-leg {
+  font-size: 22px;
+}
+
+.form-pad {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.bg-form {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.bg-input {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.blok-2 {
+  background: #343a40;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.card {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+.card-title h3 {
+  font-size: 16px;
+}
+
+.blok-3 {
+  padding-bottom: 50px;
+}
+
+.icon-box__title {
+  font-size: 1.17em;
+  margin-top: 15px;
+}
+
+.icon-box__text {
+  font-size: 0.8em;
+}
+
+.blok-4 {
+  padding-bottom: 50px;
+}
+
+.blok-4__title {
+  font-size: 1.17em;
+  margin-top: 15px;
+}
+
+.blok-4__text {
+  font-size: 0.8em;
+}
+
+.blok-5 {
+  background: #343a40;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
